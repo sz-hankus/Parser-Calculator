@@ -351,9 +351,9 @@ namespace WindowsFormsApp2
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "Form1";
+            this.Name = "Calculator";
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.Text = "Form1";
+            this.Text = "Calculator";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
